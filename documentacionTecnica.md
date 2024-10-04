@@ -19,7 +19,7 @@ CalMRU consta de 2 componentes principales:
 
 ## Requisitos Técnicos
 1. **Backend**: Kotlin
-2. **Frontend**: XML (Android Studio)
+2. **Frontend**: XML (Android Studio 2024.1.2 / API 26)
 3. **Control de Versiones**: Git
 
 ### Requisitos Mínimos:
@@ -38,7 +38,7 @@ CalMRU consta de 2 componentes principales:
 ### Dependencias y Herramientas de Desarrollo
 - Entorno de Desarrollo: Android Studio (solo para desarrollo)
 - Control de Versiones: Git (solo para desarrollo)
-- Herramientas de Compilación: Android Studio
+- Herramientas de Compilación: Android Studio (2024.1.2 / API 26)
 
 ### Despliegue y Ejecución
 1. Clonar el repositorio del proyecto desde GitHub Desktop.
